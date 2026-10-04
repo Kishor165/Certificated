@@ -1,2 +1,2 @@
 # Certificated
-Goo
+Go
